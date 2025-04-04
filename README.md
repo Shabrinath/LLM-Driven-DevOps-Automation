@@ -112,11 +112,7 @@ Watsonx AI makes it possible to run **LLM-powered automation** without exposing 
 
 ### **1️⃣ Setup Watsonx AI (or any LLM)**  
 
-You can use **IBM Watsonx AI (on-prem)** or integrate with other LLM APIs like OpenAI, Google Gemini, or Hugging Face models.  
-
-For Watsonx AI:  
-- Ensure Watsonx is deployed on your infrastructure.  
-- Use Watsonx APIs to send alert data and receive troubleshooting responses.  
+You can use any LLM **(on-prem)** or integrate with other LLM APIs like OpenAI, Google Gemini, or Hugging Face models.  
 
 ### **2️⃣ Deploy the Alert Processing Script**  
 
@@ -134,17 +130,6 @@ Use Slack’s Web API or Microsoft Teams' Adaptive Cards to send responses to yo
 🚀 **Multi-Alert Handling** – Expand support for CPU, memory, network, and security alerts.  
 🚀 **Observability Integration** – Enhance with Prometheus, Grafana, and OpenTelemetry.  
 
----
-
-## **Contributing**  
-
-Contributions are welcome! Feel free to open issues or submit PRs to improve this DevOps automation framework.  
-
----
-
-## **License**  
-
-This project is licensed under the MIT License. See `LICENSE` for details.  
 
 ---
 
